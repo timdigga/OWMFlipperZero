@@ -2,7 +2,7 @@
 
 An enhanced version of [spoof_temp](https://github.com/rgerganov/spoof_temp) designed specifically for the Flipper Zero, with real-time weather data integration using the OpenWeatherMap API. This project allows you to spoof temperature and humidity readings directly on the Flipper Zero, enabling seamless experimentation and testing with live weather data.
 
-## 🚀 Features
+# 🚀 Features
 
 - **OpenWeatherMap Integration**: Fetch real-time temperature and humidity data using the OpenWeatherMap API.
 - **Flipper Zero Compatibility**: Generate `.sub` files for use with Flipper Zero's Sub-GHz system.
@@ -10,11 +10,11 @@ An enhanced version of [spoof_temp](https://github.com/rgerganov/spoof_temp) des
 - **Customizable**: Override weather data with custom values as needed.
 - **Simple Workflow**: Drag-and-drop generated `.sub` files to your Flipper Zero SD card.
 
-## 📦 Installation
+# 📦 Installation
 
 Follow these steps to install and use the program:
 
-## 1. Clone the Repository
+# 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/flipper-zero-openweathermap-spoofer.git
