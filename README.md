@@ -23,14 +23,15 @@ cd flipper-zero-openweathermap-spoofer
 2. Install Required Dependencies
 
 Ensure you have libcurl and libcjson installed:
-
+sudo apt update
 sudo apt install libcurl4-openssl-dev libcjson-dev
+
 
 3. Build the Project
 
 Run the make command to build the program:
 
-make
+g++ main.cpp -o spoof_temp -Wall -std=c++11 -lcurl -lcjson
 
 4. Run the Program
 
