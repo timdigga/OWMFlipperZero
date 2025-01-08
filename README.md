@@ -14,7 +14,7 @@ An enhanced version of [spoof_temp](https://github.com/rgerganov/spoof_temp) des
 
 Follow these steps to install and use the program:
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/flipper-zero-openweathermap-spoofer.git
