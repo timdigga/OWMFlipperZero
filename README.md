@@ -39,7 +39,6 @@ You can now use the program to generate .sub files:
 ./spoof_temp -o <output_file> -k <your_openweathermap_api_key> -c <channel>
 
 Replace <your_openweathermap_api_key> with your OpenWeatherMap API key. For more usage details, see below.
-
 📋 Usage
 
 The program accepts the following options:
@@ -50,7 +49,7 @@ The program accepts the following options:
 	•	-f <frequency>: Set the frequency in Hz (default: 433920000).
 	•	-t <temperature>: Override the temperature value (in Celsius).
 	•	-h <humidity>: Override the humidity value (0–100).
-
+###
 Example:
 
 ./spoof_temp -o weather.sub -k abc123xyz -c 1
