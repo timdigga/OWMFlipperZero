@@ -14,3 +14,5 @@ Example Usage
 ./weather_spoofer -k YOUR_API_KEY -l "London" -o output
 
 This will fetch weather data for London, encode it, and save it as output.sub.
+
+NOTE : I didn't tested it yet, please report it in ISSUES then if anything isn't working correctly!
