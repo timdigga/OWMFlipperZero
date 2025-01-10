@@ -17,7 +17,7 @@ Follow these steps to install and use the program:
 # 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flipper-zero-openweathermap-spoofer.git
+git clone https://github.com/timdigga/flipper-zero-openweathermap-spoofer.git
 cd flipper-zero-openweathermap-spoofer
 
 2. Install Required Dependencies
